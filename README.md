@@ -69,7 +69,14 @@ Podemos concluir indicando que Kahoot combina elementos de evaluación tradicion
 
 ## Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+- Educación 3.0. (s. f.). Tutorial: Cómo crear un Kahoot para clase. Recuperado de https://www.educaciontrespuntocero.com/recursos/tutorial-crear-un-kahoot-para-clase/
+- Digital Ilusion. (s. f.). Imagen de Baliza Outbarriers. Propiedad de https://digitalilusion.com
+- Kahoot Wiki. (s. f.). Imagen de Podium Kahoot. Propiedad de https://kahoot.fandom.com/wiki/Podium?file=Podium.png
+- Manovich, L. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- Outbarriers. (s. f.). Inicio. Recuperado de https://outbarriers.com/es/
+- Outbarriers. (s. f.). Imagen de la app . Propiedad de https://outbarriers.com/es/app
+- Social Enterprise España. (s. f.). Outbarriers: Empoderando empresas sociales en España. Recuperado de https://socialenterprise.es/programas/empresas-sociales-espana/outbarriers/
+- Freepik. (s. f.). Imagen de cultura digital. Propiedad de https://www.freepik.com
 
 
 ----
