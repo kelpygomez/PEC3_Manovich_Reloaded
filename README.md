@@ -14,13 +14,18 @@ Fecha: 15/12/2024
 
 ## Planteamiento
 
-
-Es inevitable detectar oportunidades de digitalización a raíz de todas las nuevas necesidades que va generando el paso del tiempo, pero cuando se trata de necesidades que llevan décadas existiendo: ¿funciona con la misma rapidez, o por el contrario caen en el olvido?
-En este ensayo se van a analizar dos casos que han logrado, mediante la **hibridación**, unir necesidades que pertenecen al segundo caso y que llevan años entre nosotros, como la adaptación social para personas ciegas o la educación con medios digitales existentes, como las redes sociales o dispositivos de 'asistencia'.
+Es inevitable detectar oportunidades de reinvención existentes en la actualidad a raíz de todas las nuevas necesidades que va generando el paso del tiempo, pero cuando se trata de necesidades que llevan décadas existiendo: ¿funciona con la misma rapidez, o por el contrario caen en el olvido?
+En este ensayo se van a analizar dos casos que han logrado, mediante la **hibridación**, unir necesidades que pertenecen a 'necesidades olvidadas o marginadas' y que llevan años entre nosotros, como la adaptación social para personas ciegas o la educación con medios digitales existentes, como las redes sociales o dispositivos de 'asistencia'.
 
 Vamos a tratar la **hibridación** según la definición de Lev Manovich en su obra El Software toma el mando, donde plantea que la hibridación ocurre cuando diferentes medios y tecnologías se combinan para crear algo que no podría haber existido por separado.
+
 ___
 ## ¿Qué diferencia la hibridación de otras características?
+La hibridación, según Lev Manovich, se diferencia de otras características de los medios digitales porque no solo mezcla o une diferentes elementos, sino que genera algo nuevo y único. Mientras que procesos como la digitalización o la informatización pueden traducir o transformar contenidos existentes a formatos digitales, la hibridación combina diferentes tecnologías, medios y prácticas culturales en formas que no podrían existir de manera aislada.
+
+Por ejemplo, una digitalización típica convierte un libro físico en un archivo legible para elementos de lectura digital como *ebooks*, sin alterar la esencia del medio original. Por el contrario, la hibridación transforma los elementos iniciales en una nueva experiencia.
+
+Manovich enfatiza que la hibridación no solo es técnica, sino también cultural, porque permite reinventar prácticas habituales. Podemos decir que la hibridación es un proceso creativo que va más allá de la simple suma de partes, dando lugar a nuevos medios que reconfiguran tanto las posibilidades tecnológicas como las prácticas sociales.
 
 ___
 ## Re-descubriendo la hibridación: Caso 1
@@ -33,8 +38,9 @@ La propuesta de Outbarriers parte de un dispositivo físico, la baliza. Este ele
 Outbarriers no solo adapta tecnologías ya existentes, sino que también introduce un componente social al implicar a comerciantes en el proceso. Según Manovich, la hibridación no solo ocurre en el plano técnico, sino también en la **convergencia de prácticas culturales**. En este caso, la experiencia comercial tradicional se amplía al incorporar una narrativa digital que guía a personas ciegas en su interacción con los espacios físicos. La descripción de los locales, incluyendo detalles como la ubicación del mostrador o barreras arquitectónicas, transforma el acto de acceder a un comercio en una experiencia autónoma y segura.
 
 La hibridación, en este caso, se manifiesta en varios niveles:
-- Primero, la combinación de hardware (la baliza), software (la aplicación móvil) y contenido (la descripción del comercio) constituye un sistema único que trasciende las limitaciones de sus partes individuales.
-- Segundo, esta solución redefine la interacción entre personas ciegas y los espacios públicos, creando un nuevo medio de comunicación en tiempo real. Tercero, introduce un nuevo modelo de negocio para los comerciantes, quienes pueden beneficiarse de un acceso inclusivo a sus servicios.
+- La combinación de hardware (la baliza), software (la aplicación móvil) y contenido (la descripción del comercio) constituye un sistema único que trasciende las limitaciones de sus partes individuales.
+- La redefinición de la interacción entre personas ciegas y los espacios públicos, creando un nuevo medio de comunicación en tiempo real.
+- La introducción un nuevo modelo de negocio para los comerciantes, quienes pueden beneficiarse de un acceso inclusivo a sus servicios.
 
 Manovich sostiene que los medios híbridos no solo reconfiguran prácticas existentes, sino que también generan nuevas formas culturales. En este sentido, Outbarriers no solo facilita la accesibilidad, sino que fomenta una cultura de inclusión y participación activa. Esto se alinea con la idea de que la digitalización no se limita a la informatización de procesos, sino que también reconfigura las relaciones sociales y culturales. Outbarriers es un claro ejemplo de cómo la tecnología puede ser un catalizador para el cambio social, utilizando la hibridación como herramienta clave.
 
@@ -53,9 +59,9 @@ Kahoot es otro caso de hibridación destacado que Manovich describiría como una
 En términos de Manovich, Kahoot ejemplifica la hibridación al fusionar medios que, originalmente, operaban en contextos separados: el examen escrito, las dinámicas de los videojuegos y las redes sociales. Este sistema permite a los profesores diseñar cuestionarios interactivos que los estudiantes responden en tiempo real desde sus dispositivos. La plataforma no solo digitaliza el acto de evaluar, sino que introduce una dimensión competitiva mediante sistemas de puntuación, podios virtuales y recompensas simbólicas, lo que motiva a los alumnos a participar activamente.
 
 El éxito de Kahoot radica en cómo convierte un acto rutinario, como realizar un examen, en una experiencia colaborativa y estimulante. En términos de medios híbridos, esta plataforma combina tres componentes principales:
-- Primero, un software educativo diseñado para crear cuestionarios y juegos personalizados.
-- Segundo, un formato de juego que incluye la interacción en tiempo real y una experiencia visual atractiva.
-- Tercero, un componente social que fomenta la participación colectiva mediante la publicación de resultados y el escalado en podios, similar a una red social.
+- Un software educativo diseñado para crear cuestionarios y juegos personalizados.
+- Un formato de juego que incluye la interacción en tiempo real y una experiencia visual atractiva.
+- Un componente social que fomenta la participación colectiva mediante la publicación de resultados y el escalado en podios, similar a una red social.
 
 Manovich explica que los medios híbridos no solo reúnen tecnologías, sino que también crean nuevas formas de interacción cultural. Kahoot no es solo una herramienta de evaluación, sino una plataforma que promueve la competencia sana, el aprendizaje colaborativo y la integración digital en las aulas.
 
